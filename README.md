@@ -9,6 +9,9 @@ Excellent communication skills with a strong background working directly with co
 Working as a consultant for SEB, Sweden bank
 
 ## Mesiniaga Berhard (Software Engineer ) 2015 Jan - Feb 2019
+Worked for different projects.
+
+## ERC Global (Web Developer) Aug 2013 - Nov 2014
 
 
 
