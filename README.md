@@ -2,7 +2,7 @@
 I am a full stack developer. I have a background in diverse facets of .NET development, encompassing analysis, design, development, and execution of business applications. In-depth knowledge of various platforms, software systems, and servers. Extensive programming experience using Dotnet Core,ASP.NET, C#, MVC, Web API, Anuglar, HTML, and CSS. Excellent communication skills with a strong background working directly with coworkers and clientele to identify business objectives and establish requirements.
 
 
-## SEB Bank as a consultant. (Senior Software Engineer) 2019 March - Present.
+## SEB Bank (Senior Software Engineer) 2019 March - Present.
 
 ## Mesiniaga Berhard (Software Engineer ) 2015 Jan - Feb 2019
 
